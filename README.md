@@ -17,7 +17,11 @@ Repo must be created using atleast with README.md and some files with images and
 [TortoiseGit](https://tortoisegit.org/)
 
 ## Contributors
+
 Rohitha Reddy Meda
+
 Masters in Applied Computer Science
+
 My favourite image
 
+![image](https://en.es-static.us/upl/2018/06/sun-pillar-6-25-2018-Peter-Gipson-sq.jpg)
