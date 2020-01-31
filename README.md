@@ -1,6 +1,7 @@
 # about-me
 ## Links
 - [Source page](https://github.com/Rohitha12/about-me)
+- [hosted page](https://rohitha12.github.io/about-me/)
 
 ## About this repository
 This repository is used to know about markdown language and also the basic tools in github such as git clone,git add etc..and also this helps to create my own webpage.
