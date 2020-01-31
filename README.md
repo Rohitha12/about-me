@@ -9,3 +9,17 @@ Here are some recommended tools and languages are required for users to publish 
 Create a GitHub account
 Need to install some required tools such as tortoisegit,putty.
 Repo must be created using atleast with README.md and some files with images and documents.
+
+[Markdown language](https://www.markdownguide.org/)
+
+[GitClone](https://git-scm.com/docs/git-clone)
+
+[TortoiseGit](https://tortoisegit.org/)
+
+## Contributors
+Rohitha Reddy Meda
+
+Masters in Applied Computer Science
+
+My favourite image
+
