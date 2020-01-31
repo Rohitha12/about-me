@@ -17,6 +17,11 @@ Repo must be created using atleast with README.md and some files with images and
 
 [TortoiseGit](https://tortoisegit.org/)
 
+## Recommended Resources
+1. [wix](https://www.wix.com/)
+2. [W3Schools](https://www.w3schools.com/)
+3. [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
+
 ## Contributors
 
 Rohitha Reddy Meda
