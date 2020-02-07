@@ -1,0 +1,113 @@
+* {
+    padding : 2px;
+    margin: 2px;
+
+}
+#profile_pic{
+border-radius: 50%;
+max-width: 20%;
+display: block;
+flex-basis: 20%;
+}
+li a {
+    color: black;
+    border: black;
+}
+nav ul li {
+    display: inline-flex;
+    padding: 5px;
+    background-color: rgb(29, 189, 238);
+    flex-basis: 15%;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+#main_header{
+    font-family: arial;
+    text-align: center;
+    font-size: 36px;
+}
+aside a {
+    display: block;
+    padding: 20px;
+    text-align: center;
+    border: 3px #454372 solid;
+    border-radius: 8px;
+    margin: 5px;
+    text-decoration: none;
+    color: #454372;
+}
+content {
+    text-align: left;
+}
+div {
+    display: block;
+}
+section img {
+    width: 30%;
+}
+content {
+    text-align: left;
+}
+content {
+    text-align: left;
+}
+table, th, td {
+    border: 1px solid #2f2963;
+}
+table {
+    border-collapse: collapse;
+}
+user agent stylesheet
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+section {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+    flex-direction: column;
+}
+main {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
+article{
+    color:black;
+    border: 1px solid rgb(0, 0, 0);
+}
+aside{
+    color:white;
+}
+
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+#contact_heading {
+    text-align: center;
+    flex-basis: 100%;
+}
+h2{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+* {
+    padding: 0px;
+    margin: 0px;
+}
