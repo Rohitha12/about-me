@@ -23,6 +23,11 @@ li {
     display: list-item;
     text-align: -webkit-match-parent;
 }
+li a {
+    color: #9ebfb3;
+    text-decoration: none;
+    font-size: 24px;
+}
 #main_header{
     font-family: arial;
     text-align: center;
@@ -77,6 +82,12 @@ main {
     flex-wrap: wrap;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+#profile_pic{
+    border-radius: 50%;
+    max-width: 20%;
+    display: block;
+    flex-basis: 20%;
+    }
 user agent stylesheet
 html {
     color: -internal-root-color;
@@ -111,3 +122,34 @@ h2{
     padding: 0px;
     margin: 0px;
 }
+a {
+    color: #9ebfb3;
+    text-decoration: none;
+    font-size: 24px;
+}
+element.style {
+    text-align: left;
+    flex-basis: 100%;
+}
+form {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    flex-basis: 80%;
+    font-variant: inherit;
+    justify-content: left;
+}
+form input[type="submit"] {
+    padding: 16px 75px;
+    border: none;
+    background-color: green;
+    text-align: left;
+    color: white;
+    text-transform: uppercase;
+    margin-left: 45%;
+}
+form label, input[type="text"], input[type="email"], textarea {
+    flex-basis: 45%;
+    margin: 5px;
+    padding: 10px;
+    resize: none;
