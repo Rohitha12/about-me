@@ -16,7 +16,7 @@ li a {
 nav ul li {
     display: inline-flex;
     padding: 5px;
-    background-color: rgb(29, 189, 238);
+    background-color: rgb(193, 238, 29);
     flex-basis: 15%;
 }
 li {
